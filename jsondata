@@ -1,0 +1,72 @@
+ [
+    {
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "color": "Black",
+      "storage": "128GB",
+      "price": 999
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "color": "Phantom Gray",
+      "storage": "256GB",
+      "price": 1099
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 5",
+      "color": "Just Black",
+      "storage": "128GB",
+      "price": 699
+    },
+    {
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "color": "Morning Mist",
+      "storage": "256GB",
+      "price": 1069
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "color": "Midnight Gray",
+      "storage": "256GB",
+      "price": 749
+    },
+    {
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "color": "Silver Frost",
+      "storage": "256GB",
+      "price": 899
+    },
+    {
+      "brand": "Sony",
+      "model": "Xperia 1 II",
+      "color": "Black",
+      "storage": "256GB",
+      "price": 1199
+    },
+    {
+      "brand": "LG",
+      "model": "Velvet",
+      "color": "Aurora Gray",
+      "storage": "128GB",
+      "price": 699
+    },
+    {
+      "brand": "Motorola",
+      "model": "Edge+",
+      "color": "Thunder Grey",
+      "storage": "256GB",
+      "price": 999
+    },
+    {
+      "brand": "Nokia",
+      "model": "8.3 5G",
+      "color": "Polar Night",
+      "storage": "128GB",
+      "price": 699
+    }
+  ] 
